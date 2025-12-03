@@ -19,7 +19,7 @@
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" />&ensp;Microsoft SQLServer
 - <img height="18" width="18" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />&ensp;MongoDB
 -  <img height="18" width="18" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />&ensp;My sql
-
+-  <img height="18" width="18" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" />&ensp;PostgreSQL
 
 ### Other Tools
 - <img height="18" width="18" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />&ensp; Bootstrap
