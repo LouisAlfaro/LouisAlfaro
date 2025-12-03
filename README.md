@@ -4,7 +4,7 @@
 
 ## 🔧 Tools
 ### Programming languages
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=cpp" />&ensp;C++, <img height="18" width="18" src="https://skillicons.dev/icons?i=js" />&ensp;JavaScript, <img height="18" width="18" src="https://skillicons.dev/icons?i=python" />&ensp;Python, <img height="18" width="18" src="https://skillicons.dev/icons?i=html" />&ensp;HTML5, <img height="18" width="18" src="https://skillicons.dev/icons?i=css" />&ensp;CSS, <img height="18" width="18" src="https://skillicons.dev/icons?i=php" />&ensp;PHP,
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=cpp" />&ensp;C++, <img height="18" width="18" src="https://skillicons.dev/icons?i=js" />&ensp;JavaScript, <img height="18" width="18" src="https://skillicons.dev/icons?i=python" />&ensp;Python, <img height="18" width="18" src="https://skillicons.dev/icons?i=html" />&ensp;HTML5, <img height="18" width="18" src="https://skillicons.dev/icons?i=css" />&ensp;CSS, <img height="18" width="18" src="https://skillicons.dev/icons?i=php" />&ensp;PHP, <img height="18" width="18" src="https://skillicons.dev/icons?i=java" />&ensp;JAVA
 
 
 ###  Frontend Tools 
